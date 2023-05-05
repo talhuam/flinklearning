@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dbe72089-efd6-486a-93f2-8446689b12a3" name="hp_bigdata01">
+        <fileTransfer accessType="SFTP" host="bigdata01" port="22" sshConfigId="2616ce1b-5e7d-4199-acd1-22b363ccc04c" sshConfig="root@bigdata01:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
